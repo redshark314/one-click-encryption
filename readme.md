@@ -61,7 +61,7 @@ The program is absolutely free to be used for both commercial and non-commercial
 Please use the following citation if you want to use anywhere-encrypt for publication
 
 ```html
-@software{redshark:ne-click-encryption,
+@software{redshark:one-click-encryption,
       title={one-click-encryption},
       version={1.0},
       author={redshark},
